@@ -1,8 +1,8 @@
 {
-    "version": 2,
-    "sha256": "9fecd0becf06a05c561280abe59fd61a812dd622e5433a8241557529a8b1fcf4",
-    "signature": "ed25519:fUbCZPz+GQLRenL8NQKu6unKJl/7Ox9UGr1smSq7JkUSEPgufQNicXftrcoEE3EPQRk2c+Q8bgpVBYnJ5KPUDg==",
-    "bytes": 768,
-    "published_at": "2026-11-07T04:28:50+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/discountcalc-app-data@3f5dc11/discountcalc/v2.json"
+    "version": 3,
+    "sha256": "1d8bdd7a797ab0ea04456cc6763af0ce980cc2ad744eefb66f0880f5117bcc4f",
+    "signature": "ed25519:X95lCr4luUk2Kr8IKHQNNHv/+X1ZrAsE7ll0PXt4Wr+Eidu8t35uwqdjNdIa3GjZTpWkM+Qe9wAet1bo6eAcCg==",
+    "bytes": 738,
+    "published_at": "2026-11-07T04:31:55+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/discountcalc-app-data@18d87ac/discountcalc/v3.json"
 }
